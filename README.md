@@ -21,7 +21,7 @@ cui è adagiato il modulo.
 I moduli sono costruiti con un passo sandard tra magnete e magnete in
 modo da permettere l'intercambiabilità tra essi all'interno del ciruito.
 
-Componenti strutturali di sostegno ([LASER](), [COMPONENTS]()):
+Componenti strutturali di sostegno (cartella [LASER](https://github.com/TizianaDallape/Circuit_making/tree/master/laser)):
 
 - basette in compensato 3mm o basetta millefori ramata passo 2,84mm
 - dischetti in compensato per altezza piedini
@@ -42,10 +42,13 @@ I moduli sono di tipo alimentazione, input ed output, nella cartella
 * RGB-LED
 * buzzers
 
-Il file [laser_modules.pdf]() rappresenta i formati dei vari moduli e i
-componenti necessari da poter tagliare a laser.
-Una volta realizzate le basette si inseriscono gli elementi elettronici 
-necessari da connettere ([DATASHEET]()). È possibile consultare le
-istruzioni di montaggio dei moduli più semplici supportati da basetta
-in compensato ([wood_assembly_instruction.md]()) e dei moduli più
-complessi saldati su basetta millefori ([through-pass-hole_assembly_instructons]()).
+Il file [laser_modules.pdf](https://github.com/TizianaDallape/Circuit_making/blob/master/laser/laser_modules.pdf)
+rappresenta i formati dei vari moduli e i componenti necessari da poter
+tagliare a laser. Una volta realizzate le basette si inseriscono gli
+elementi elettronici necessari da connettere
+([DATASHEET](https://github.com/TizianaDallape/Circuit_making/tree/master/datasheet)).
+È possibile consultare le istruzioni di montaggio dei moduli più
+semplici supportati da basetta in compensato
+([wood_assembly_instructions.md](https://github.com/TizianaDallape/Circuit_making/blob/master/wood_assembly_instructions.md))
+e dei moduli più complessi saldati su basetta millefori
+([through-pass-hole_assembly_instructions](https://github.com/TizianaDallape/Circuit_making/blob/master/through-pass-hole_assembly_instructions.md)).
