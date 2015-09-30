@@ -11,10 +11,11 @@ disegno quotato [](); i fori in cui inserire le viti devono essere
 trapanati con punta da d=3mm.
 
 Gli schemi elettrici da saldare possono essere visualizzati nella
-cartella [SCHEMATICS](). Quindi saldare i componenti.
+cartella [SCHEMATICS](https://github.com/TizianaDallape/Circuit_making/tree/master/schematics).
+Quindi saldare i componenti.
 Nota Bene: In relazione al modulo [blinker]() è necessario programmare
-l'ATtiny45 tramite Arduino ([documentazione]() del procedimento) prima
-della saldatura.
+l'ATtiny45 tramite Arduino ([documentazione](https://github.com/PeriniMatteo/Arduino-shield-attiny45)
+del procedimento) prima della saldatura.
 
 Inserire in ogni vite con cappuccio rivolto verso il basso un dischetto
 magnetico e due dischetti in compensato.
