@@ -7,7 +7,10 @@ modulo LED, è possibile assemblare i restanti moduli analogamente
 basandosi sulle forografie riportate nella cartella [PICTURES]().
 
 Ritagliare la basetta ed i componenti.
+<img src="01.jpg"></img>
+
 ![01](/foto_assemblaggio/wood_assembly_instructions/01.jpg)
+
 
 Inserire in ogni vite con cappuccio rivolto verso il basso un dischetto
 magnetico e due dischetti in compensato.
