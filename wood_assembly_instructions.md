@@ -4,7 +4,8 @@ I moduli che richiedono assemblaggio su basetta in compensato sono
 alimentazione 9V, potenziometro, sensore di luminosità LDR, LED, e 
 buzzer. Di seguito sono riportare le istruzioni di assemblaggio di un
 modulo LED, è possibile assemblare i restanti moduli analogamente
-basandosi sulle forografie riportate nella cartella [PICTURES]().
+basandosi sulle forografie riportate nella cartella
+[PICTURES](https://github.com/TizianaDallape/Circuit_making/tree/master/pictures).
 
 01) Ritagliare la basetta ed i componenti.
 <img src="pictures/wood_assembly_instructions/01.jpg"></img>
