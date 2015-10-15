@@ -31,7 +31,8 @@ Componenti strutturali di sostegno (cartella [LASER](https://github.com/TizianaD
 - lastre metallo plastificate formato A5
 
 I moduli sono di tipo alimentazione, input ed output, nella cartella 
-[PICTURES]() sono visibili le fotografie di ogni modulo:
+[PICTURES](https://github.com/TizianaDallape/Circuit_making/tree/master/pictures)
+sono visibili le fotografie di ogni modulo:
 
 * alimentazione 9V
 * double switch
@@ -51,4 +52,4 @@ elementi elettronici necessari da connettere
 semplici supportati da basetta in compensato
 ([wood_assembly_instructions.md](https://github.com/TizianaDallape/Circuit_making/blob/master/wood_assembly_instructions.md))
 e dei moduli più complessi saldati su basetta millefori
-([through-pass-hole_assembly_instructions](https://github.com/TizianaDallape/Circuit_making/blob/master/through-pass-hole_assembly_instructions.md)).
+([through-pass-hole_assembly_instructions.md](https://github.com/TizianaDallape/Circuit_making/blob/master/through-pass-hole_assembly_instructions.md)).
