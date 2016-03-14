@@ -43,8 +43,8 @@ sono visibili le fotografie di ogni modulo:
 * RGB-LED
 * buzzers
 
-Il file [laser_modules.pdf](https://github.com/TizianaDallape/Circuit_making/blob/master/laser/laser_modules.pdf)
-rappresenta i formati dei vari moduli e i componenti necessari da poter
+Il file [modules.pdf](https://github.com/TizianaDallape/Circuit_making/blob/master/laser/laser_modules.pdf)
+illustra i formati dei vari moduli da poter
 tagliare a laser. Una volta realizzate le basette si inseriscono gli
 elementi elettronici necessari da connettere
 ([DATASHEET](https://github.com/TizianaDallape/Circuit_making/tree/master/datasheet)).
