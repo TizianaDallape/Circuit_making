@@ -1,6 +1,6 @@
 # Circuit_making
 
-S.Barcucci, T.Dallapè, M.Perini
+T.Dallapè, M.Perini
 
 Circuit making: ideazione, progettazione e costruzione di circuiti
 elettrici integrati da moduli elettronici fabbricabili ed assemblabili
@@ -36,17 +36,17 @@ sono visibili le fotografie di ogni modulo:
 
 * alimentazione 9V
 * double switch
-* potenziometro
+* partitore di tensione
 * blinker
 * sensore di luminosità LDR
 * LED
-* RGB-LED
-* buzzers
+* LED-RGB
+* buzzer
 
 Il file [modules.pdf](https://github.com/TizianaDallape/Circuit_making/blob/master/laser/modules.pdf)
 illustra i formati dei vari moduli da poter
-tagliare a laser. Una volta realizzate le basette si inseriscono gli
-elementi elettronici necessari da connettere
+tagliare a laser. Una volta realizzate le basette si inseriscono i
+componenti elettronici necessari da connettere
 ([DATASHEET](https://github.com/TizianaDallape/Circuit_making/tree/master/datasheet)).
 È possibile consultare le istruzioni di montaggio dei moduli più
 semplici supportati da basetta in compensato
